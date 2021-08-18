@@ -1,3 +1,1 @@
-# Jerin
-## Hello World
-### Hi all
+# Jerin Paul
